@@ -251,6 +251,6 @@ def ver_progreso():
     """Panel 'Progreso del backend': prueba tus métodos con una lista de práctica."""
     return respuesta_ok(verificador.revisar_todo())
 
-# ===== ENCENDER EL SERVIDOR =====
+# ===== ENCENDER EL SERVIDOR ===== /file/d/1mhFAkIA1PKs93GnuLLmzwbWSeIpD-CFy/view?usp=drive_link
 if __name__ == "__main__":
     app.run(debug=True, port=5050)
